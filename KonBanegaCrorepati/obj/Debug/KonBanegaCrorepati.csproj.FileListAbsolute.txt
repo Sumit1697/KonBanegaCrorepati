@@ -1,0 +1,7 @@
+D:\KonBanegaCrorepati\bin\Debug\KonBanegaCrorepati.exe.config
+D:\KonBanegaCrorepati\bin\Debug\KonBanegaCrorepati.exe
+D:\KonBanegaCrorepati\bin\Debug\KonBanegaCrorepati.pdb
+D:\KonBanegaCrorepati\obj\Debug\KonBanegaCrorepati.csproj.AssemblyReference.cache
+D:\KonBanegaCrorepati\obj\Debug\KonBanegaCrorepati.csproj.CoreCompileInputs.cache
+D:\KonBanegaCrorepati\obj\Debug\KonBanegaCrorepati.exe
+D:\KonBanegaCrorepati\obj\Debug\KonBanegaCrorepati.pdb
